@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.nav-item:hover{
+    background-color: rgb(118, 151, 226);
+}
+
+.nav-pills{
+    float:right;
+}
+
+.nav-bar{
+    padding: 1rem;
+}
+
+.nav-link{
+    color: whitesmoke !important;
+}
+
+.container .row{
+    width:100%;
+    max-width: 100%;
+    display:flex;
+}
+
+.col{
+    width: 50%;;
+}
